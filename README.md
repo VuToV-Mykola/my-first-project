@@ -1,3 +1,5 @@
-# my-first-project
+# longread-1-module1-html-basics-practice-1
 
-This is my first project GoIT!!!
+Рецепт зверстано!
+
+Рецепт, де є назва страви та два рівноцінних розділи: інгредієнти та інструкція
